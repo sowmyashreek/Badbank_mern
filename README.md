@@ -1,9 +1,11 @@
 # Badbank_mern
 
-Description:This Full-Stack Banking Application was created as a capstone project for MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN bootcamp. It was initially built via create-react-app and connected to backend with Express and MongoDB Cloud Solution.
+Description:
+This Full-Stack Banking Application was created as a capstone project for MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN bootcamp. It was initially built via create-react-app and connected to backend with Express and MongoDB Cloud Solution.
 
 
 Installation Guidelines:
+
 The app can be run via local server which requires the following steps:
 
 Clone the repository to your local machine
